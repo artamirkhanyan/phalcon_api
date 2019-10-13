@@ -15,7 +15,8 @@
 
 # Quick install
 1. Run `vagrant up`
-2. :tada: :balloon:
+2. `http://localhost:8080`
+3. :tada: :balloon:
 
   
 # MySQL
